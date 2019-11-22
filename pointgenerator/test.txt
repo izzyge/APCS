@@ -1,0 +1,35 @@
+________________________________________________
+Reference Data X, Y (Data Relative to 0,0) :   0  0
+________________________________________________
+Object : 0 - Ellipse 
+User Label : 
+Data is represented as : {x posLow, x posHigh} {y posLow, y posHigh}
+Subtract "Low" values from "High" values to get data compatible
+with JAVA drawOval, fillOval, drawRect, fillRect
+Number Of Points : 2
+-----------
+X Data :
+{   309,   552}
+-----------
+Y Data :
+{   192,   400}
+-----------
+{Min X, Max X}, {Min Y, Max Y}
+{   309,   552} {   192,   400}
+________________________________________________
+Object : 1 - Polygon 
+User Label : 
+Data is represented as a sequence of x and then y values
+Number Of Points : 6
+-----------
+X Data :
+{   477,   483,   753,   747,   517,   477}
+-----------
+Y Data :
+{    93,   222,   217,    78,    72,    84}
+-----------
+{Min X, Max X}, {Min Y, Max Y}
+{   477,   753} {    72,   222}
+-----------
+(ALL DATA {Min X, Max X}, {Min Y, Max Y}
+{   309,   753} {    72,   400}
